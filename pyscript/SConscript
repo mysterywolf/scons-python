@@ -1,0 +1,9 @@
+from building import *
+import sys
+sys.path.append(GetCurrentDir())
+from demo import *
+
+test()
+
+group = []
+Return('group')
